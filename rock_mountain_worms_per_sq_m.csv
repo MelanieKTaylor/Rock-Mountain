@@ -1,0 +1,41 @@
+block,burn_status,topographic_position,proportion_ecm_ba,depth,plot_name,Megascolecidae,Lumbricidae,Acanthodrilidae
+1,unburned,ridge,0.81,litter,1U8L,0.28,0.00,0.00
+2,burned,north-facing midslope,0.69,litter,2B3L,0.00,0.28,0.00
+3,burned,low elevation,0.50,litter,3B2L,0.00,0.56,0.00
+3,burned,ridge,0.89,litter,3B4L,0.28,0.00,0.00
+3,unburned,south-facing midslope,0.61,litter,3U5L,0.28,0.00,0.00
+4,burned,low elevation,0.48,litter,4B2L,0.56,0.00,0.28
+4,burned,ridge,0.92,litter,4B4L,0.00,0.85,0.00
+4,unburned,low elevation,0.49,litter,4U6L,0.00,0.28,0.00
+4,unburned,north-facing midslope,0.75,litter,4U7L,0.00,0.28,0.00
+1,burned,south-facing midslope,0.64,litter,1B1L,0.00,0.00,0.00
+1,burned,north-facing midslope,0.48,litter,1B3L,0.00,0.00,0.00
+1,burned,ridge,0.75,litter,1B4L,0.00,0.00,0.00
+1,unburned,south-facing midslope,0.90,litter,1U5L,0.00,0.00,0.00
+2,unburned,low elevation,0.57,litter,2U6L,0.00,0.00,0.00
+2,unburned,north-facing midslope,0.68,litter,2U7L,0.00,0.00,0.00
+2,unburned,ridge,0.92,litter,2U8L,0.00,0.00,0.00
+3,burned,south-facing midslope,0.35,litter,3B1L,2.82,0.00,0.00
+3,unburned,north-facing midslope,0.72,litter,3U7L,0.00,1.13,0.00
+3,unburned,ridge,0.73,litter,3U8L,0.00,0.00,0.00
+4,burned,north-facing midslope,0.35,litter,4B3L,0.00,0.00,0.00
+1,burned,south-facing midslope,0.64,soil,1B1S,0.00,3.33,6.67
+1,burned,north-facing midslope,0.48,soil,1B3S,0.00,0.00,0.00
+1,burned,ridge,0.75,soil,1B4S,0.00,0.00,0.00
+1,unburned,south-facing midslope,0.90,soil,1U5S,0.00,0.00,3.33
+1,unburned,ridge,0.81,soil,1U8S,0.00,0.00,0.00
+2,burned,north-facing midslope,0.69,soil,2B3S,0.00,0.00,16.67
+2,unburned,low elevation,0.57,soil,2U6S,0.00,0.00,16.67
+2,unburned,north-facing midslope,0.68,soil,2U7S,0.00,0.00,0.00
+2,unburned,ridge,0.92,soil,2U8S,0.00,3.33,0.00
+3,burned,south-facing midslope,0.35,soil,3B1S,3.33,3.33,0.00
+3,burned,low elevation,0.50,soil,3B2S,0.00,0.00,16.67
+3,burned,ridge,0.89,soil,3B4S,0.00,0.00,0.00
+3,unburned,south-facing midslope,0.61,soil,3U5S,0.00,3.33,13.33
+3,unburned,north-facing midslope,0.72,soil,3U7S,0.00,0.00,0.00
+3,unburned,ridge,0.73,soil,3U8S,0.00,0.00,6.67
+4,burned,low elevation,0.48,soil,4B2S,0.00,16.67,26.67
+4,burned,north-facing midslope,0.35,soil,4B3S,0.00,0.00,23.33
+4,burned,ridge,0.92,soil,4B4S,0.00,3.33,0.00
+4,unburned,low elevation,0.49,soil,4U6S,0.00,0.00,10.00
+4,unburned,north-facing midslope,0.75,soil,4U7S,0.00,0.00,0.00

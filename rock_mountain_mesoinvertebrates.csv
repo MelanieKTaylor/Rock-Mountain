@@ -1,0 +1,112 @@
+litterbag_id,block,burn_status,plot_name,proportion_ecm_ba,topographic position,litter_type,springtails,mites
+1,1,burned,1B4,0.75,ridge,AM,0,0
+3,1,burned,1B4,0.75,ridge,AM,2,3
+5,1,burned,1B4,0.75,ridge,AM,0,10
+22,1,burned,1B1,0.64,south-facing midslope,AM,4,5
+23,1,burned,1B1,0.64,south-facing midslope,AM,7,3
+24,1,burned,1B1,0.64,south-facing midslope,AM,0,1
+32,4,unburned,4U6,0.49,low elevation,AM,27,24
+33,4,unburned,4U6,0.49,low elevation,AM,3,8
+34,4,unburned,4U6,0.49,low elevation,AM,25,40
+39,4,unburned,4U7,0.75,north-facing midslope,AM,31,64
+40,4,unburned,4U7,0.75,north-facing midslope,AM,35,87
+41,4,unburned,4U7,0.75,north-facing midslope,AM,78,51
+55,4,burned,4B2,0.48,low elevation,AM,62,37
+56,4,burned,4B4,0.92,ridge,AM,47,22
+60,4,burned,4B3,0.35,north-facing midslope,AM,43,43
+62,4,burned,4B2,0.48,low elevation,AM,11,39
+72,4,burned,4B3,0.35,north-facing midslope,AM,71,123
+74,4,burned,4B2,0.48,low elevation,AM,12,15
+80,4,burned,4B4,0.92,ridge,AM,92,39
+81,4,burned,4B4,0.92,ridge,AM,88,24
+83,4,burned,4B3,0.35,north-facing midslope,AM,98,52
+90,1,burned,1B3,0.48,north-facing midslope,AM,1,0
+91,1,burned,1B3,0.48,north-facing midslope,AM,0,5
+115,1,unburned,1U5,0.90,south-facing midslope,AM,0,7
+119,1,unburned,1U5,0.90,south-facing midslope,AM,3,27
+120,1,unburned,1U5,0.90,south-facing midslope,AM,1,13
+122,3,unburned,3U7,0.72,north-facing midslope,AM,0,1
+128,3,unburned,3U7,0.72,north-facing midslope,AM,0,2
+130,3,unburned,3U7,0.72,north-facing midslope,AM,1,4
+133,3,unburned,3U5,0.61,south-facing midslope,AM,0,0
+139,3,unburned,3U5,0.61,south-facing midslope,AM,0,9
+144,3,unburned,3U5,0.61,south-facing midslope,AM,3,0
+145,3,unburned,3U8,0.73,ridge,AM,3,5
+146,3,unburned,3U8,0.73,ridge,AM,0,0
+151,3,unburned,3U8,0.73,ridge,AM,2,1
+165,2,unburned,2U7,0.68,north-facing midslope,AM,0,0
+166,2,unburned,2U7,0.68,north-facing midslope,AM,0,0
+175,2,unburned,2U6,0.57,low elevation,AM,1,0
+176,2,unburned,2U6,0.57,low elevation,AM,0,0
+177,2,unburned,2U6,0.57,low elevation,AM,0,0
+186,3,burned,3B4,0.89,ridge,AM,3,25
+187,3,burned,3B4,0.89,ridge,AM,0,3
+191,3,burned,3B4,0.89,ridge,AM,1,28
+194,3,burned,3B1,0.35,south-facing midslope,AM,0,0
+201,3,burned,3B1,0.35,south-facing midslope,AM,0,0
+202,3,burned,3B1,0.35,south-facing midslope,AM,2,3
+205,3,burned,3B2,0.50,low elevation,AM,1,7
+212,3,burned,3B2,0.50,low elevation,AM,1,11
+217,2,unburned,2U8,0.92,ridge,AM,0,5
+219,2,unburned,2U8,0.92,ridge,AM,0,2
+226,2,unburned,2U8,0.92,ridge,AM,0,0
+232,2,burned,2B3,0.69,north-facing midslope,AM,19,87
+233,2,burned,2B3,0.69,north-facing midslope,AM,37,78
+234,2,burned,2B6,0.69,north-facing midslope,AM,47,158
+252,4,unburned,4U7,0.75,north-facing midslope,ECM,39,27
+253,4,unburned,4U7,0.75,north-facing midslope,ECM,8,17
+254,4,unburned,4U7,0.75,north-facing midslope,ECM,20,36
+258,4,unburned,4U6,0.49,low elevation,ECM,2,19
+259,4,unburned,4U6,0.49,low elevation,ECM,14,20
+260,4,unburned,4U6,0.49,low elevation,ECM,21,14
+277,1,burned,1B4,0.75,ridge,ECM,3,3
+278,1,burned,1B4,0.75,ridge,ECM,2,23
+279,1,burned,1B4,0.75,ridge,ECM,0,0
+289,1,burned,1B1,0.64,south-facing midslope,ECM,1,3
+291,1,burned,1B1,0.64,south-facing midslope,ECM,0,2
+292,1,burned,1B1,0.64,south-facing midslope,ECM,2,2
+293,4,burned,4B2,0.48,low elevation,ECM,43,41
+299,4,burned,4B4,0.92,ridge,ECM,27,7
+300,4,burned,4B4,0.92,ridge,ECM,78,26
+305,4,burned,4B3,0.35,north-facing midslope,ECM,17,77
+306,4,burned,4B3,0.35,north-facing midslope,ECM,40,39
+307,4,burned,4B3,0.35,north-facing midslope,ECM,60,107
+316,4,burned,4B2,0.48,low elevation,ECM,25,49
+321,4,burned,4B4,0.92,ridge,ECM,36,3
+328,4,burned,4B2,0.48,low elevation,ECM,4,36
+337,1,burned,1B3,0.48,north-facing midslope,ECM,3,5
+339,1,burned,1B3,0.48,north-facing midslope,ECM,3,2
+340,1,burned,1B3,0.48,north-facing midslope,ECM,0,2
+341,1,unburned,1U8,0.81,ridge,ECM,5,3
+360,1,unburned,1U5,0.90,south-facing midslope,ECM,1,5
+361,1,unburned,1U5,0.90,south-facing midslope,ECM,4,10
+362,1,unburned,1U5,0.90,south-facing midslope,ECM,3,23
+365,3,unburned,3U7,0.72,north-facing midslope,ECM,0,1
+372,3,unburned,3U7,0.72,north-facing midslope,ECM,0,3
+375,3,unburned,3U7,0.72,north-facing midslope,ECM,0,1
+381,3,unburned,3U5,0.61,south-facing midslope,ECM,0,1
+382,3,unburned,3U5,0.61,south-facing midslope,ECM,3,4
+384,3,unburned,3U5,0.61,south-facing midslope,ECM,0,3
+389,3,unburned,3U8,0.73,ridge,ECM,3,8
+395,3,unburned,3U8,0.73,ridge,ECM,0,1
+397,3,unburned,3U8,0.73,ridge,ECM,3,5
+409,2,unburned,2U7,0.68,north-facing midslope,ECM,0,0
+410,2,unburned,2U7,0.68,north-facing midslope,ECM,0,0
+411,2,unburned,2U7,0.68,north-facing midslope,ECM,0,0
+416,2,unburned,2U6,0.57,low elevation,ECM,0,0
+417,2,unburned,2U6,0.57,low elevation,ECM,0,0
+418,2,unburned,2U6,0.57,low elevation,ECM,0,0
+430,3,burned,3B4,0.89,ridge,ECM,16,47
+431,3,burned,3B4,0.89,ridge,ECM,0,15
+435,3,burned,3B4,0.89,ridge,ECM,6,54
+440,3,burned,3B1,0.35,south-facing midslope,ECM,0,3
+442,3,burned,3B1,0.35,south-facing midslope,ECM,0,0
+447,3,burned,3B1,0.35,south-facing midslope,ECM,0,0
+450,3,burned,3B2,0.50,low elevation,ECM,1,15
+451,3,burned,3B2,0.50,low elevation,ECM,0,21
+462,2,unburned,2U8,0.92,ridge,ECM,0,14
+463,2,unburned,2U8,0.92,ridge,ECM,0,0
+469,2,unburned,2U8,0.92,ridge,ECM,0,0
+473,2,burned,2B3,0.69,north-facing midslope,ECM,25,96
+474,2,burned,2B3,0.69,north-facing midslope,ECM,22,183
+478,2,burned,2B3,0.69,north-facing midslope,ECM,22,82
